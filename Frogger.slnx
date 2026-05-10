@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="../RPG/ZeEngine/ZeEngine.shproj" />
+  <Project Path="Frogger/Frogger.csproj" />
+</Solution>
